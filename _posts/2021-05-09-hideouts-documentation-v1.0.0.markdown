@@ -18,12 +18,13 @@ this is the Sign in page. after installing the app and opening it this is the fi
 - if you forget your password press 'Frogot password' button and complete steps to reset your password
 
 ![image](/assets/images/1signin.png){: height="80%" width="80%"}
+<img src="1signin.png">
 
 `About page`
 <br>
 the About page contains some brief info about the HideOuts app. (message on this page is subject to change)
 
-![](./assets/images/2about.png){: height="80%" width="80%"}
+![](/assets/images/2about.png){: height="80%" width="80%"}
 
 `Sign up page`
 <br>
