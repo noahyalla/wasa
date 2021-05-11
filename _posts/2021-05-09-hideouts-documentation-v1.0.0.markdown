@@ -18,6 +18,7 @@ this is the Sign in page. after installing the app and opening it this is the fi
 - if you forget your password press 'Frogot password' button and complete steps to reset your password
 
 ![](/assets/images/1signin.png){: height="80%" width="80%"}
+![1signin](https://user-images.githubusercontent.com/55944034/117792047-4654e100-b28e-11eb-9873-90ec3ef9a9c1.png) {: height="80%" width="80%"}
 
 
 
