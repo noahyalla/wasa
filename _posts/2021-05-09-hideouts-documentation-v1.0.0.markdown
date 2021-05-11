@@ -25,7 +25,7 @@ this is the Sign in page. after installing the app and opening it this is the fi
 <br>
 the About page contains some brief info about the HideOuts app. (message on this page is subject to change)
 
-![](/assets/images/2about.png){: height="80%" width="80%"}
+![](/assets/images/2about.png?raw=true)
 
 `Sign up page`
 <br>
