@@ -17,8 +17,8 @@ this is the Sign in page. after installing the app and opening it this is the fi
 - to read a brief description of the app press on the info icon at the bottom right corner
 - if you forget your password press 'Frogot password' button and complete steps to reset your password
 
-![](https://github.com/noahyalla/wasa/assets/images/1signin.png)
-![loadingGif](https://user-images.githubusercontent.com/55944034/117769860-95dbe280-b277-11eb-9c41-aa162d7feb74.gif)
+![](https://github.com/noahyalla/wasa/tree/gh-pages/assets/images/1signin.png)
+
 
 
 `About page`
