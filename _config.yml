@@ -27,7 +27,7 @@ url: "https://noahyalla.github.io" # the base hostname & protocol for your site,
 root: /
 #twitter_username: jekyllrb
 #ithub_username:  jekyll
-linkedin_username: noah-yalla
+#linkedin_username: noah-yalla
 
 # Build settings
 theme: minima
