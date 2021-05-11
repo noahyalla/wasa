@@ -43,4 +43,4 @@ print_hi('Tom')
 
 `special dedication`
 
-HideOuts is dedicated to Nathan, my late team lead at work. what a wonderful father-figure to everyone in the team and the most down-to-earth person we have to know. forever loved and missed!
+HideOuts is dedicated to Nathan, my late team lead at work. what a wonderful father-figure to everyone in the team and the most down-to-earth person we have come to know. forever loved and missed!
