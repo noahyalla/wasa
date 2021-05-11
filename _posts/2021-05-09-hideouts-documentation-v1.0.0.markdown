@@ -17,7 +17,7 @@ this is the Sign in page. after installing the app and opening it this is the fi
 - to read a brief description of the app press on the info icon at the bottom right corner
 - if you forget your password press 'Frogot password' button and complete steps to reset your password
 
-![1signin](https://user-images.githubusercontent.com/55944034/117792047-4654e100-b28e-11eb-9873-90ec3ef9a9c1.png) {: height="80%" width="80%"}
+![1signin](https://user-images.githubusercontent.com/55944034/117792047-4654e100-b28e-11eb-9873-90ec3ef9a9c1.png)
 
 
 
