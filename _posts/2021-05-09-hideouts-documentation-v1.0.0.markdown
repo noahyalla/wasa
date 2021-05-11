@@ -17,13 +17,13 @@ this is the Sign in page. after installing the app and opening it this is the fi
 - to read a brief description of the app press on the info icon at the bottom right corner
 - if you forget your password press 'Frogot password' button and complete steps to reset your password
 
-![](./images/1signin.png)
+![](/assets/images/1signin.png){: height="80%" width="80%"}
 
 `About page`
 <br>
 the About page contains some brief info about the HideOuts app. (message on this page is subject to change)
 
-![](/assets/images/2about.png){: height="80%" width="80%"}
+![image](https://github.com/noahyalla/wasa/2about.png){: height="80%" width="80%"}
 
 `Sign up page`
 <br>
